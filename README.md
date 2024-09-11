@@ -1,4 +1,4 @@
-### BlogPost Application
+### BlogPost Backend Application
 Welcome to the BlogPost Application! 
 This project is a full-stack web application where users can create, read, update, and delete blog posts. 
 
